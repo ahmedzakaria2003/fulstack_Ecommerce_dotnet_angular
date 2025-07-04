@@ -1,0 +1,20 @@
+<div class="card h-100 shadow-sm d-flex flex-column">
+  <div class="image position-relative" style="cursor: pointer; height: 200px; overflow: hidden;">
+    <img src="{{product.pictureUrl}}" alt="{{product.name}}"
+         class="img-fluid w-100 h-100 object-fit-cover bg-info">
+    <div class="d-flex align-items-center justify-content-center hover-overlay position-absolute top-0 w-100 h-100">
+      <button (click)="addItemToBasket()" type="button" class="btn btn-primary fa fa-shopping-cart mr-2"></button>
+      <button (click)="addToWishlist()" type="button" class="btn btn-warning mr-2">
+        <i class="fa fa-heart"></i>
+      </button>
+      <button routerLink="/shop/{{product.id}}" type="button" class="btn btn-primary">View</button>
+    </div>
+  </div>
+
+  <div class="card-body d-flex flex-column justify-content-between flex-grow-1">
+    <a routerLink="/shop/{{product.id}}">
+      <h6 class="text-uppercase">{{product.name}}</h6>
+    </a>
+    <span class="mb-2">{{product.price | currency}}</span>
+  </div>
+</div>

@@ -1,0 +1,30 @@
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\bin\Debug\net8.0\Shared.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\bin\Debug\net8.0\Shared.pdb
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLa.5E103439.Up2Date
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\bin\Debug\net8.0\Shared.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\bin\Debug\net8.0\Shared.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLa.5E103439.Up2Date
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

@@ -1,0 +1,704 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB536-84DF-4B2A-8E6F-8177A21688B5}|E-Commerce.Web\\E-Commerce.Web.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\e-commerce.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E71AB536-84DF-4B2A-8E6F-8177A21688B5}|E-Commerce.Web\\E-Commerce.Web.csproj|solutionrelative:e-commerce.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\service\\payementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|solutionrelative:core\\service\\payementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80C9824-D82E-49A0-91AB-C70BBC8C0815}|Core\\Presentation\\Presentation.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\presentation\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80C9824-D82E-49A0-91AB-C70BBC8C0815}|Core\\Presentation\\Presentation.csproj|solutionrelative:core\\presentation\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|solutionrelative:core\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|solutionrelative:core\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\service\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|solutionrelative:core\\service\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\serviceabstraction\\iwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:core\\serviceabstraction\\iwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\serviceabstraction\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:core\\serviceabstraction\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\serviceabstraction\\ipayementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:core\\serviceabstraction\\ipayementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\serviceabstraction\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:core\\serviceabstraction\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\serviceabstraction\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:core\\serviceabstraction\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\serviceabstraction\\ibaskettservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:core\\serviceabstraction\\ibaskettservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\serviceabstraction\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91846A36-A022-49FE-84D5-A257CA9211C8}|Core\\ServiceAbstraction\\ServiceAbstraction.csproj|solutionrelative:core\\serviceabstraction\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\infrastructure\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\infrastructure\\persistence\\repositories\\wishlistrepoistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\wishlistrepoistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\infrastructure\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\infrastructure\\persistence\\repositories\\cacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\cacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\infrastructure\\persistence\\repositories\\basketrepoistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\basketrepoistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80C9824-D82E-49A0-91AB-C70BBC8C0815}|Core\\Presentation\\Presentation.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80C9824-D82E-49A0-91AB-C70BBC8C0815}|Core\\Presentation\\Presentation.csproj|solutionrelative:core\\presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80C9824-D82E-49A0-91AB-C70BBC8C0815}|Core\\Presentation\\Presentation.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\presentation\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80C9824-D82E-49A0-91AB-C70BBC8C0815}|Core\\Presentation\\Presentation.csproj|solutionrelative:core\\presentation\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80C9824-D82E-49A0-91AB-C70BBC8C0815}|Core\\Presentation\\Presentation.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\presentation\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80C9824-D82E-49A0-91AB-C70BBC8C0815}|Core\\Presentation\\Presentation.csproj|solutionrelative:core\\presentation\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80C9824-D82E-49A0-91AB-C70BBC8C0815}|Core\\Presentation\\Presentation.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80C9824-D82E-49A0-91AB-C70BBC8C0815}|Core\\Presentation\\Presentation.csproj|solutionrelative:core\\presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80C9824-D82E-49A0-91AB-C70BBC8C0815}|Core\\Presentation\\Presentation.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\presentation\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80C9824-D82E-49A0-91AB-C70BBC8C0815}|Core\\Presentation\\Presentation.csproj|solutionrelative:core\\presentation\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\shared\\datatransferobjects\\orderdtos\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|solutionrelative:shared\\datatransferobjects\\orderdtos\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\shared\\productsorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|solutionrelative:shared\\productsorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\shared\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|solutionrelative:shared\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\shared\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|solutionrelative:shared\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB536-84DF-4B2A-8E6F-8177A21688B5}|E-Commerce.Web\\E-Commerce.Web.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\e-commerce.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E71AB536-84DF-4B2A-8E6F-8177A21688B5}|E-Commerce.Web\\E-Commerce.Web.csproj|solutionrelative:e-commerce.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CFF1EB-1C34-447F-B9FB-DC97743CD58A}|Core\\DomainLayer\\DomainLayer.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\domainlayer\\models\\ordermodule\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CFF1EB-1C34-447F-B9FB-DC97743CD58A}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\ordermodule\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\infrastructure\\persistence\\data\\dataseed\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\data\\dataseed\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71AB536-84DF-4B2A-8E6F-8177A21688B5}|E-Commerce.Web\\E-Commerce.Web.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\e-commerce.web\\wwwroot\\images\\products\\chickentikkamasala.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{E71AB536-84DF-4B2A-8E6F-8177A21688B5}|E-Commerce.Web\\E-Commerce.Web.csproj|solutionrelative:e-commerce.web\\wwwroot\\images\\products\\chickentikkamasala.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\infrastructure\\persistence\\specificationeevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\specificationeevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CFF1EB-1C34-447F-B9FB-DC97743CD58A}|Core\\DomainLayer\\DomainLayer.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\domainlayer\\contracts\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CFF1EB-1C34-447F-B9FB-DC97743CD58A}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\service\\specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|solutionrelative:core\\service\\specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\service\\specification\\productwithbrandandtypespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|solutionrelative:core\\service\\specification\\productwithbrandandtypespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\service\\specification\\productcountspesicication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|solutionrelative:core\\service\\specification\\productcountspesicication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\shared\\datatransferobjects\\orderdtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|solutionrelative:shared\\datatransferobjects\\orderdtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\shared\\datatransferobjects\\orderdtos\\deliverymethodsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|solutionrelative:shared\\datatransferobjects\\orderdtos\\deliverymethodsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\service\\specification\\orderwithpayementintentidspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2472C-7BE5-44DB-BC41-DC09919B8F7E}|Core\\Service\\Service.csproj|solutionrelative:core\\service\\specification\\orderwithpayementintentidspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\infrastructure\\persistence\\migrations\\20250703190745_addpaymentintentidinordertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D37B460-4571-4C51-853B-45F8DF2DA2E3}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\migrations\\20250703190745_addpaymentintentidinordertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CFF1EB-1C34-447F-B9FB-DC97743CD58A}|Core\\DomainLayer\\DomainLayer.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\core\\domainlayer\\models\\cartmodule\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CFF1EB-1C34-447F-B9FB-DC97743CD58A}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\cartmodule\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|e:\\full stack\\back-end(.net)\\api\\session 07\\fulstack_ecommerce_dotnet_angular\\e-commerce.web\\shared\\datatransferobjects\\cartmoduledtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692BE209-93AF-42F5-A311-578B53A1B1CA}|Shared\\Shared.csproj|solutionrelative:shared\\datatransferobjects\\cartmoduledtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Core\\Service\\ServiceManager.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\ServiceManager.cs",
+              "RelativeToolTip": "Core\\Service\\ServiceManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCMAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:38:52.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Core\\Service\\ProductService.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\ProductService.cs",
+              "RelativeToolTip": "Core\\Service\\ProductService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:08:18.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayementService.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\PayementService.cs",
+              "RelativeDocumentMoniker": "Core\\Service\\PayementService.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\PayementService.cs",
+              "RelativeToolTip": "Core\\Service\\PayementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:19:25.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "Core\\Service\\OrderService.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\OrderService.cs",
+              "RelativeToolTip": "Core\\Service\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:10:06.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceAbstraction\\IOrderService.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\IOrderService.cs",
+              "RelativeToolTip": "Core\\ServiceAbstraction\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:39:09.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWishlistService.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\IWishlistService.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceAbstraction\\IWishlistService.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\IWishlistService.cs",
+              "RelativeToolTip": "Core\\ServiceAbstraction\\IWishlistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:39:14.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\E-Commerce.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Commerce.Web\\appsettings.json",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\E-Commerce.Web\\appsettings.json",
+              "RelativeToolTip": "E-Commerce.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T17:34:46.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Presentation\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Core\\Presentation\\Controllers\\PaymentsController.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Presentation\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Core\\Presentation\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:42:19.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPayementService.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\IPayementService.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceAbstraction\\IPayementService.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\IPayementService.cs",
+              "RelativeToolTip": "Core\\ServiceAbstraction\\IPayementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:22:22.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBaskettService.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\IBaskettService.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceAbstraction\\IBaskettService.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\IBaskettService.cs",
+              "RelativeToolTip": "Core\\ServiceAbstraction\\IBaskettService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:39:06.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\ICacheService.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceAbstraction\\ICacheService.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\ICacheService.cs",
+              "RelativeToolTip": "Core\\ServiceAbstraction\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:39:08.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceAbstraction\\IAuthenticationService.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\IAuthenticationService.cs",
+              "RelativeToolTip": "Core\\ServiceAbstraction\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:39:00.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:38:53.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WishlistRepoistory.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Repositories\\WishlistRepoistory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\WishlistRepoistory.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Repositories\\WishlistRepoistory.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\WishlistRepoistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:38:51.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CacheRepository.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Repositories\\CacheRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\CacheRepository.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Repositories\\CacheRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\CacheRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:37:16.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceAbstraction\\IServiceManager.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\ServiceAbstraction\\IServiceManager.cs",
+              "RelativeToolTip": "Core\\ServiceAbstraction\\IServiceManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:38:14.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BasketRepoistory.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Repositories\\BasketRepoistory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\BasketRepoistory.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Repositories\\BasketRepoistory.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\BasketRepoistory.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:37:12.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Presentation\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Core\\Presentation\\Controllers\\OrdersController.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Presentation\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Core\\Presentation\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:36:39.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderToReturnDTO.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\DataTransferObjects\\OrderDTOS\\OrderToReturnDTO.cs",
+              "RelativeDocumentMoniker": "Shared\\DataTransferObjects\\OrderDTOS\\OrderToReturnDTO.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\DataTransferObjects\\OrderDTOS\\OrderToReturnDTO.cs",
+              "RelativeToolTip": "Shared\\DataTransferObjects\\OrderDTOS\\OrderToReturnDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:36:20.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Presentation\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "Core\\Presentation\\Controllers\\WishlistController.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Presentation\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "Core\\Presentation\\Controllers\\WishlistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:09:12.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductQueryParams.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\ProductQueryParams.cs",
+              "RelativeDocumentMoniker": "Shared\\ProductQueryParams.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\ProductQueryParams.cs",
+              "RelativeToolTip": "Shared\\ProductQueryParams.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:06:22.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BasketsController.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Presentation\\Controllers\\BasketsController.cs",
+              "RelativeDocumentMoniker": "Core\\Presentation\\Controllers\\BasketsController.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Presentation\\Controllers\\BasketsController.cs",
+              "RelativeToolTip": "Core\\Presentation\\Controllers\\BasketsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:51:34.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:14:29.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PaginatedResult.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\PaginatedResult.cs",
+              "RelativeDocumentMoniker": "Shared\\PaginatedResult.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\PaginatedResult.cs",
+              "RelativeToolTip": "Shared\\PaginatedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:13:04.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Core\\Presentation\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Core\\Presentation\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:14:19.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\Specification\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Service\\Specification\\BaseSpecification.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\Specification\\BaseSpecification.cs",
+              "RelativeToolTip": "Core\\Service\\Specification\\BaseSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:12:46.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\E-Commerce.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "E-Commerce.Web\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\E-Commerce.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "E-Commerce.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T23:38:24.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\DomainLayer\\Models\\OrderModule\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\OrderModule\\Order.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\DomainLayer\\Models\\OrderModule\\Order.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\OrderModule\\Order.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:00:17.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Presentation\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Core\\Presentation\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Presentation\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Core\\Presentation\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:04:53.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductSorting.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\ProductSorting.cs",
+              "RelativeDocumentMoniker": "Shared\\ProductSorting.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\ProductSorting.cs",
+              "RelativeToolTip": "Shared\\ProductSorting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:06:20.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "products.json",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Data\\DataSeed\\products.json",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Data\\DataSeed\\products.json",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Data\\DataSeed\\products.json",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Data\\DataSeed\\products.json",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T10:59:43.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SpecificationeEvaluator.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\SpecificationeEvaluator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\SpecificationeEvaluator.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\SpecificationeEvaluator.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\SpecificationeEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:13:48.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ChickenTikkaMasala.jpg",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\E-Commerce.Web\\wwwroot\\Images\\Products\\ChickenTikkaMasala.jpg",
+              "RelativeDocumentMoniker": "E-Commerce.Web\\wwwroot\\Images\\Products\\ChickenTikkaMasala.jpg",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\E-Commerce.Web\\wwwroot\\Images\\Products\\ChickenTikkaMasala.jpg",
+              "RelativeToolTip": "E-Commerce.Web\\wwwroot\\Images\\Products\\ChickenTikkaMasala.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-04T11:00:53.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductWithBrandAndTypeSpecifications.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\Specification\\ProductWithBrandAndTypeSpecifications.cs",
+              "RelativeDocumentMoniker": "Core\\Service\\Specification\\ProductWithBrandAndTypeSpecifications.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\Specification\\ProductWithBrandAndTypeSpecifications.cs",
+              "RelativeToolTip": "Core\\Service\\Specification\\ProductWithBrandAndTypeSpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:05:55.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\DomainLayer\\Contracts\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\ISpecification.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\DomainLayer\\Contracts\\ISpecification.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:33:06.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductCountSpesicication.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\Specification\\ProductCountSpesicication.cs",
+              "RelativeDocumentMoniker": "Core\\Service\\Specification\\ProductCountSpesicication.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\Specification\\ProductCountSpesicication.cs",
+              "RelativeToolTip": "Core\\Service\\Specification\\ProductCountSpesicication.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:05:47.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderWithPayementIntentIdSpecification.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\Specification\\OrderWithPayementIntentIdSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Service\\Specification\\OrderWithPayementIntentIdSpecification.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\Service\\Specification\\OrderWithPayementIntentIdSpecification.cs",
+              "RelativeToolTip": "Core\\Service\\Specification\\OrderWithPayementIntentIdSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:22:55.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250703190745_AddPaymentIntentIdInOrderTable.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Migrations\\20250703190745_AddPaymentIntentIdInOrderTable.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Migrations\\20250703190745_AddPaymentIntentIdInOrderTable.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Infrastructure\\Persistence\\Migrations\\20250703190745_AddPaymentIntentIdInOrderTable.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Migrations\\20250703190745_AddPaymentIntentIdInOrderTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:07:46.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\DataTransferObjects\\OrderDTOS\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "Shared\\DataTransferObjects\\OrderDTOS\\OrderDTO.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\DataTransferObjects\\OrderDTOS\\OrderDTO.cs",
+              "RelativeToolTip": "Shared\\DataTransferObjects\\OrderDTOS\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:18:53.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeliveryMethodsDTO.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\DataTransferObjects\\OrderDTOS\\DeliveryMethodsDTO.cs",
+              "RelativeDocumentMoniker": "Shared\\DataTransferObjects\\OrderDTOS\\DeliveryMethodsDTO.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\DataTransferObjects\\OrderDTOS\\DeliveryMethodsDTO.cs",
+              "RelativeToolTip": "Shared\\DataTransferObjects\\OrderDTOS\\DeliveryMethodsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:18:48.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomerBasket.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\DomainLayer\\Models\\CartModule\\CustomerBasket.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\CartModule\\CustomerBasket.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Core\\DomainLayer\\Models\\CartModule\\CustomerBasket.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\CartModule\\CustomerBasket.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:54:46.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BasketDTO.cs",
+              "DocumentMoniker": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\DataTransferObjects\\CartModuleDTOS\\BasketDTO.cs",
+              "RelativeDocumentMoniker": "Shared\\DataTransferObjects\\CartModuleDTOS\\BasketDTO.cs",
+              "ToolTip": "E:\\Full Stack\\Back-end(.net)\\API\\Session 07\\fulstack_Ecommerce_dotnet_angular\\E-Commerce.Web\\Shared\\DataTransferObjects\\CartModuleDTOS\\BasketDTO.cs",
+              "RelativeToolTip": "Shared\\DataTransferObjects\\CartModuleDTOS\\BasketDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:54:30.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.deps.json
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.pdb
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\Shared.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\Shared.pdb
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.csproj.AssemblyReference.cache
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.AssemblyInfoInputs.cache
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.AssemblyInfo.cs
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceA.44E702FF.Up2Date
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\refint\ServiceAbstraction.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.pdb
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ref\ServiceAbstraction.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\DomainLayer.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.deps.json
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\ServiceAbstraction.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\DomainLayer.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\Shared.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\Shared.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\bin\Debug\net8.0\DomainLayer.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.csproj.AssemblyReference.cache
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.AssemblyInfoInputs.cache
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.AssemblyInfo.cs
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.csproj.CoreCompileInputs.cache
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceA.44E702FF.Up2Date
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\refint\ServiceAbstraction.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ServiceAbstraction.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Core\ServiceAbstraction\obj\Debug\net8.0\ref\ServiceAbstraction.dll

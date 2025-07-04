@@ -1,0 +1,50 @@
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Service.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\ServiceAbstraction.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Shared.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Service.pdb
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\ServiceAbstraction.pdb
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Shared.pdb
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Data\DataSeed\brands.json
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Data\DataSeed\delivery.json
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Data\DataSeed\products.json
+C:\Users\Zeko\source\repos\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Data\DataSeed\types.json
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Data\DataSeed\brands.json
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Data\DataSeed\delivery.json
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Data\DataSeed\products.json
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Data\DataSeed\types.json
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.deps.json
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Persistence.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\DomainLayer.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Service.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\ServiceAbstraction.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Shared.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Service.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\DomainLayer.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\ServiceAbstraction.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\bin\Debug\net8.0\Shared.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
+E:\Full Stack\Back-end(.net)\API\Session 07\Angular Project\E-Commerce.Web\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll
