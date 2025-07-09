@@ -86,7 +86,7 @@ The app will be served on `http://localhost:4200/` by default.
 
 ### ORM (Entity Framework Core)
 
-```bash
+`bash
 Install-Package Microsoft.EntityFrameworkCore
 Install-Package Microsoft.EntityFrameworkCore.Design
 Install-Package Microsoft.EntityFrameworkCore.SqlServer
