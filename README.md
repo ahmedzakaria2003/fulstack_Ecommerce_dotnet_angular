@@ -86,25 +86,32 @@ The app will be served on `http://localhost:4200/` by default.
 
 ### ORM (Entity Framework Core)
 
-`bash
+``bash
+
 Install-Package Microsoft.EntityFrameworkCore
 Install-Package Microsoft.EntityFrameworkCore.Design
 Install-Package Microsoft.EntityFrameworkCore.SqlServer
 
 Redis (Caching)
 Install-Package StackExchange.Redis
+
 Used for storing basket & wishlist items on the server in-memory for fast access and improved performance.
+---------------------------
 
 Identity & Authentication
 Install-Package Microsoft.AspNetCore.Identity.EntityFrameworkCore
 Install-Package Microsoft.AspNetCore.Identity
 Install-Package Microsoft.IdentityModel.Tokens
 Install-Package System.IdentityModel.Tokens.Jwt
-Used for implementing secure user authentication using JWT tokens and ASP.NET Core Identity.
 
+Used for implementing secure user authentication using JWT tokens and ASP.NET Core Identity.
+----------------------------------
 
 Data Storage
+
 Using SQL Server for all environments (development and production) to store products, orders, and related entities.
+
+----------------------------------------------
 
 Using Redis to persist basket items in memory on the server.
 
