@@ -2,7 +2,6 @@
 
 This is a full-stack E-Commerce web application developed using Angular 11 on the frontend and ASP.NET Core 8 on the backend, following Onion Architecture and real-world design patterns like Repository, Unit of Work, and Specification.
 
-The project includes core e-commerce features like product browsing, cart, wishlist, authentication, and checkout.
 
 
 ## Technologies Used
